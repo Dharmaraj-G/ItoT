@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742325870561",
+    "project_id": "ilet-4700c",
+    "storage_bucket": "ilet-4700c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742325870561:android:f088b08d4f5cfd386dbca0",
+        "android_client_info": {
+          "package_name": "com.myfirstapp.ilet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742325870561-95ehpd9kc059c794r4i3tnsq780s3lke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Lw0GFjiwGj2zcnSFiPKWRjKXHDwrgcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742325870561-95ehpd9kc059c794r4i3tnsq780s3lke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
